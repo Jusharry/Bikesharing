@@ -25,4 +25,15 @@ Most rides start in Manhattan which is the hub of the financial and entertainmen
 ![screenshot](Viz/Top_end.png)
 Being that we already know that most bikes are used for 5 minutes or less it should come as no surprise that the end locations are quite close to the start locations.
 
+## Summary 
+Based on the information gathered it is quite clear that the NYC Citi Bikesharing platform is very successful . There is a strong user base that while predominantly male is consistent throught all days of the week . I beliave that a similiar business model could be replicated in Des Moines without much trouble. 
+It was also noted through further analysis that rides lasting longer that 5 minutes and up to an hour had a noticeable footprint outside of the Manhattan core as is demonstrated by the following images :
 
+![screenshot](Viz/Extra_start.png) 
+
+![screenshot](Viz/Extra_end.png)
+
+
+## Tableau
+
+[link to dashboard](https://public.tableau.com/app/profile/harry3568/viz/CitiBikeProject_16441789050420/CitiBikeProjectAnalysis#1)
